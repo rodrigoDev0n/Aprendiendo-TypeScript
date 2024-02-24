@@ -33,7 +33,8 @@ ocurrir utilizando Javascript nativo.
     Para instalar TypeScript en nuestro proyecto debemos ejecutar el siguiente comando:
 </p>
 
-```
+```terminal
+
   npm install typescript --save-dev npx tsc --version
 
 ```
@@ -41,4 +42,8 @@ ocurrir utilizando Javascript nativo.
 <p>
     Pueden existir varias formas de instalar TypeScript
 </p>
+
+<h4>A continuación tendras un indice para acceder a mis apuntes</h4>
+
+* [1. Tipos numericos y su motor de inferencias](Notas/numbers.md)
 
