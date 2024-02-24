@@ -36,5 +36,7 @@ Además, nos permite tener un mejor control y prevenir algunos errores o bugs qu
 
 <h4>A continuación tendras un indice para acceder a mis apuntes</h4>
 
-* [1. Tipos numericos y su motor de inferencias](Notas/numbers.md)
+* [1. ¿Que es TypeScript?](Notas/TypeScript.md)
+
+* [2. Tipos numericos y su motor de inferencias](Notas/numbers.md)
 

@@ -99,7 +99,8 @@ console.log(customerAge); // 1 ya que el motor de inferencias de TypeScript lo t
 
 
 <p style="margin-top: 20px;">
-En este caso, el motor de inferencias detecta que nuestra variable discount es un parseInt, el cual retornará un valor numérico.
+En este caso el motor de inferencias detecta que nuestra variable
+ discount tiene es un parseInt el cual retornara un valor numerico.
 </p>
 
 
