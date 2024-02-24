@@ -3,28 +3,23 @@
 #### ¿Por que usar TypeScript?
 
 <p>
-    TypeScript nos brinda un typado mas estricto a nuestro codigo de Javascript
-    analizando constantemente nuestro codigo y diciendonos si podemos mejorar nuestro codigo    
-    y podamos desarrollar mejores productos.
+    TypeScript nos brinda un tipado más estricto a nuestro código de JavaScript, analizando constantemente nuestro código y diciéndonos si podemos mejorarlo y desarrollar mejores productos.
+
 </p>
 
 
-Ademas nos permite tener un mejor control y prevenir algunos errores o bugs que nos pueden 
-ocurrir utilizando Javascript nativo.
+<p>
+Además, nos permite tener un mejor control y prevenir algunos errores o bugs que nos pueden ocurrir utilizando JavaScript nativo.
+</p>
 
 #### Javascript vs TypeScript
 
 <p>
-    Una de las grandes diferencias que podemos encontrar dentro del lenguaje de Javascript
-    es que al momento de desarrollar una aplicación solo podremos saber si tenemos un error
-    al momento de ejecutar nuestro codigo. 
+    Una de las grandes diferencias que podemos encontrar dentro del lenguaje de JavaScript es que al momento de desarrollar una aplicación solo podremos saber si tenemos un error al momento de ejecutar nuestro código.
 </p>
 
 <p>
-    Otra gran diferencia entre Javascript y TypeScript es su typado ya que TypeScript
-    nos ofrece un typado mucho mas estricto al que ofrece Javascript de esta manera
-    ayudandonos a prevenir muchos errores que pueden aparecer al desarrollar aplicaciones
-    con Javascript.
+    Otra gran diferencia entre JavaScript y TypeScript es su tipado, ya que TypeScript nos ofrece un tipado mucho más estricto que el que ofrece JavaScript. De esta manera, nos ayuda a prevenir muchos errores que pueden aparecer al desarrollar aplicaciones con JavaScript.
 </p>
 
 #### ¿Como instalamos TypeScript?
@@ -38,10 +33,6 @@ ocurrir utilizando Javascript nativo.
   npm install typescript --save-dev npx tsc --version
 
 ```
-
-<p>
-    Pueden existir varias formas de instalar TypeScript
-</p>
 
 <h4>A continuación tendras un indice para acceder a mis apuntes</h4>
 
